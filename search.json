@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Course Info",
+    "section": "",
+    "text": "Meets: Mondays 1:30–3:15, Fall 2026\nInstructor: Prof. David Rylaarsdam · drylaars@calvinseminary.edu · 616-752-0294\nOffice hours: Mon 11:30–12:30 & 3:15–5:15; Fri 1:00–2:00; or by appointment\nCredits: 2 (≈80 hours: 22 class · ~33 reading · ~18 writing · ~4 final)"
+  },
+  {
+    "objectID": "about.html#logistics",
+    "href": "about.html#logistics",
+    "title": "Course Info",
+    "section": "",
+    "text": "Meets: Mondays 1:30–3:15, Fall 2026\nInstructor: Prof. David Rylaarsdam · drylaars@calvinseminary.edu · 616-752-0294\nOffice hours: Mon 11:30–12:30 & 3:15–5:15; Fri 1:00–2:00; or by appointment\nCredits: 2 (≈80 hours: 22 class · ~33 reading · ~18 writing · ~4 final)"
+  },
+  {
+    "objectID": "about.html#course-description",
+    "href": "about.html#course-description",
+    "title": "Course Info",
+    "section": "Course description",
+    "text": "Course description\nThe process of spiritual formation is intentionally engaged so that habits developed through theological education form students holistically for ministry."
+  },
+  {
+    "objectID": "about.html#program-goals",
+    "href": "about.html#program-goals",
+    "title": "Course Info",
+    "section": "Program goals",
+    "text": "Program goals\nCalvin Seminary forms graduates who discern, with those they serve, answers to four connected questions — Context, Gospel, Calling, Person. Every ministry situation occurs in a context where the gospel is communicated, where God is calling people to his mission, and where God forms the person and role of a servant leader."
+  },
+  {
+    "objectID": "about.html#learning-outcomes",
+    "href": "about.html#learning-outcomes",
+    "title": "Course Info",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nContext: Discern how your history, beliefs, and behaviors shape your ability to love God and others.\nGospel: Describe the basic disciplines of the Christian life and their fruit; describe how identity and character are shaped by coursework and ministry practice.\nCalling: Discern ways to encourage individual and communal formation through the classic disciplines.\nPerson: Practice disciplines that sustain a soft heart and thick skin; develop and sustain a Rhythm of Life with a Formation Group / accountability partner / mentor; articulate how formation habits support servant leadership."
+  },
+  {
+    "objectID": "about.html#grading",
+    "href": "about.html#grading",
+    "title": "Course Info",
+    "section": "Grading",
+    "text": "Grading\n\n\n\nComponent\nWeight\n\n\n\n\nClass participation (incl. quizzes)\n20%\n\n\n8 Reading Responses\n40%\n\n\nRhythm of Life\n20%\n\n\nFinal Exam\n20%\n\n\n\nReading Responses: 2 Pass · 1 Poor pass · 0 Fail; term average must be 2 or the grade is pulled down. Late Reading Responses are not accepted. Late Rhythm of Life loses one full grade per day."
+  },
+  {
+    "objectID": "about.html#written-work-standards",
+    "href": "about.html#written-work-standards",
+    "title": "Course Info",
+    "section": "Written-work standards",
+    "text": "Written-work standards\nDouble-spaced, page numbers, 1” margins, name + due date + title on page 1. In-text citation for required readings (author, page); footnotes for other sources. Depth of engagement, correct understanding, clear organization, and quality of writing all count. Use inclusive language."
+  },
+  {
+    "objectID": "about.html#resources",
+    "href": "about.html#resources",
+    "title": "Course Info",
+    "section": "Resources",
+    "text": "Resources\n\nRhetoric Center: rhetoric@calvinseminary.edu (writing help)\nAccommodations: arrange via the VP for Academic Affairs / Student Academic Services; talk with the prof in the first two weeks.\nPlagiarism / appeals: see the CTS Student Handbook.\n\nThis is Eric’s personal course site, not an official course page. Content summarized from the Fall 2026 syllabus."
+  },
+  {
+    "objectID": "rhythm.html",
+    "href": "rhythm.html",
+    "title": "Rhythm of Life",
+    "section": "",
+    "text": "A realistic plan for living your faith — the processes by which you hope to be formed into the image of Christ for the sake of others. Describe how particular Christian disciplines will be integral to your way of life, with reasons (based on your needs and situation) for your choices. Late Rhythms lose one full grade per day. See the handout “Instructions for developing a personal Rhythm of Life.”"
+  },
+  {
+    "objectID": "rhythm.html#working-outline",
+    "href": "rhythm.html#working-outline",
+    "title": "Rhythm of Life",
+    "section": "Working outline",
+    "text": "Working outline\nUse this space to draft. The disciplines you actually practice this term (fasting, prayer, Lectio, Examen, confession, Sabbath) are your best raw material — pull from your Reading Responses.\n\nWhere I am now — an honest assessment of your current spiritual condition, needs, tendencies, and life situation.\nWhere I sense God forming me — the shape of the person you hope to become.\nRhythms — the disciplines/practices you’ll adopt, organized by cadence:\n\nDaily — e.g. Scripture, prayer, Examen\nWeekly — e.g. Sabbath, worship, confession\nSeasonal / occasional — e.g. fasting, retreat, spiritual direction\n\nWhy these — reasons tied to your assessment in (1). This is where the grade lives.\nSupport & accountability — Formation Group, accountability partner, mentor."
+  },
+  {
+    "objectID": "rhythm.html#notes-as-the-term-goes",
+    "href": "rhythm.html#notes-as-the-term-goes",
+    "title": "Rhythm of Life",
+    "section": "Notes as the term goes",
+    "text": "Notes as the term goes\nJot what’s working, what isn’t, and quotes/ideas from readings you’ll want here. Then export to Word for submission.\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nDraft here in Quarto, then render to .docx for Canvas: quarto render rhythm.qmd --to docx"
+  },
+  {
+    "objectID": "readings.html",
+    "href": "readings.html",
+    "title": "Readings & Pacing",
+    "section": "",
+    "text": "The syllabus budgets reading at 15 pp/hr — this is slow, devotional reading meant to be practiced, not skimmed. Read early enough to try each assigned discipline more than once before class."
+  },
+  {
+    "objectID": "readings.html#what-to-read-week-by-week",
+    "href": "readings.html#what-to-read-week-by-week",
+    "title": "Readings & Pacing",
+    "section": "What to read, week by week",
+    "text": "What to read, week by week\nEvery assigned reading — author, work, and exact pages — with a check-off per week. Updates live from assets/tasks.js; mark a week \"done\" there to check it off.\n\nLoading reading tracker…"
+  },
+  {
+    "objectID": "readings.html#weekly-pacing-finish-before-the-monday-class",
+    "href": "readings.html#weekly-pacing-finish-before-the-monday-class",
+    "title": "Readings & Pacing",
+    "section": "Weekly pacing (finish before the Monday class)",
+    "text": "Weekly pacing (finish before the Monday class)\n\n\n\nRead for\n~Pages\n~Hours\nStart by\nWhy start early\n\n\n\n\nSep 21\n45\n3.0\nWed Sep 16\n—\n\n\nSep 28\n75\n5.0\nTue Sep 22\n🧘 confession before class\n\n\nOct 5\n40\n2.5\nWed Sep 30\n🧘 24-hr fast needs a clear day\n\n\nOct 26\n47\n3.0\nWed Oct 21\n🧘 begin prayer practice ~Oct 26\n\n\nNov 2\n41\n2.5\nTue Oct 27\n🧘 pray daily a full week first\n\n\nNov 9\n62\n4.0\nTue Nov 3\nMLK selections add up\n\n\nNov 16\n29\n2.0\nWed Nov 11\n🧘 Lectio across the week\n\n\nNov 23\nlight\n1.0\n(break)\ngratitude essay\n\n\nNov 30\n28\n2.0\nTue Nov 24\n—\n\n\nDec 7\n48\n3.0\nTue Dec 1\n🧘 begin the Examen\n\n\nDec 14\n110\n5.0\nMon Dec 7\n⚠️ Nouwen (90 pp) — start early\n\n\n\nTwo bank-ahead windows: Oct 12 (Reading Week) and Oct 19 (no class). Page counts above are my estimates from the assigned ranges — treat as guides."
+  },
+  {
+    "objectID": "readings.html#three-dont-get-caught-moments",
+    "href": "readings.html#three-dont-get-caught-moments",
+    "title": "Readings & Pacing",
+    "section": "Three “don’t get caught” moments",
+    "text": "Three “don’t get caught” moments\n\nDec 14’s Nouwen (90 pp) — the largest single reading. Pace ~15 pp/day over the last two weeks.\nPractices with lead time — the 24-hr fast (Oct 5), the week-long prayer practice you begin ~Oct 26, and Lectio Divina (Nov 16) must start before class.\nLate Reading Responses are never accepted, and the Rhythm of Life loses a full letter grade per day. Dec 16 and Dec 18 are hard walls."
+  },
+  {
+    "objectID": "readings.html#books-to-have-on-hand",
+    "href": "readings.html#books-to-have-on-hand",
+    "title": "Readings & Pacing",
+    "section": "Books to have on hand",
+    "text": "Books to have on hand\nRequired (own): Augustine Confessions (Boulding trans.) · Bonhoeffer Life Together · Foster Celebration of Discipline · Nouwen In the Name of Jesus. Recommended: Calhoun, Spiritual Disciplines Handbook. Everything else (Smith, Willard, Peterson excerpts, Thompson, Athanasius, MLK, DeYoung, etc.) is distributed in class / posted on Canvas.\n\nDrop class-distributed PDFs into a readings/ folder and link them here as you collect them."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "This is my personal coursework site for Cornerstone: Person (CTS 5710), a spiritual-formation course at Calvin Theological Seminary (Fall 2026). It’s where I track my readings and deadlines and keep my homework — reading responses, reflections, and my Rhythm of Life — as I complete them. It’s a student portfolio, not an official course page. — Eric Araújo\n\n\n\nHere’s where things stand — this panel recomputes every time you open the page.\n\nLoading your tasks…\n\n\n\nQuick links\n\nSchedule — week-by-week plan\nReadings — reading list & pacing\nReading Responses — pick and track your 8 of 12\nRhythm of Life — the ~5-page deliverable (due Dec 16)\nSubmissions — your finished work\n\n\n\nHow this stays current\nEverything on this dashboard comes from one file: assets/tasks.js. Mark a task \"done\", add a note, or change a date there, then re-render (quarto render or quarto preview). The urgency colors — 🔴 overdue, 🟠 due within 7 days — are computed live in your browser against today’s date, so they’re accurate even between renders."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Legend: ✍️ Reading Response available (write 8 of ~12) · 🧘 spiritual practice · 👥 guest speaker · 📌 deadline. “No class” weeks can still carry work — watch for it."
+  },
+  {
+    "objectID": "schedule.html#at-a-glance",
+    "href": "schedule.html#at-a-glance",
+    "title": "Schedule",
+    "section": "At a glance",
+    "text": "At a glance\n\n\n\n\n\n\n\n\n\n\n\n\n\nWk\nDate\nTopic\nReading\nThis week\nDue / notes\n\n\n\n\n1\nSep 14\nIntegrated Formation at CTS\n—\n\nOrientation\n\nPersonal Profile — Sep 16\n\n\n2\nSep 21\nDying & Rising\n~45 pp\n\n✍️ Response\n\n—\n\n\n3\nSep 28\nCommunal Life\n~75 pp\n\n🧘 Confession✍️ Response\n\n—\n\n\n4\nOct 5\nSilence, Solitude & Fasting\n~40 pp\n\n🧘 24-hr fast✍️ Response\n\n—\n\n\n·\nOct 12\nReading Week — no class\n—\n\n\n\nCatch-up / read ahead\n\n\n·\nOct 19\nNo class — prof away\n—\n\n\n\n—\n\n\n5\nOct 26\nChastity, Simplicity, Generosity\n~47 pp\n\n✍️ Response\n\nBegin prayer practice\n\n\n6\nNov 2\nPrayer & Dark Nights\n~41 pp\n\n🧘 Prayer week✍️ Response\n\n—\n\n\n7\nNov 9\nSabbath, Justice, Suffering\n~62 pp\n\n✍️ Response\n\n—\n\n\n8\nNov 16\nBiblical Studies\n~29 pp\n\n🧘 Lectio✍️ Response👥 Guest\n\nDanny Daley (NT)\n\n\n·\nNov 23\nThanksgiving — no class\nlight\n\n✍️ Response avail.\n\nGratitude essay window\n\n\n9\nNov 30\nTheological Studies\n~28 pp\n\n✍️ Response👥 Guest\n\nCory Willson (Missiology)\n\n\n10\nDec 7\nTheological Reflection\n~48 pp\n\n🧘 Examen✍️ Response👥 Guest\n\nWendy Fisher · start Nouwen\n\n\n11\nDec 14\nLife-Long Formation\n~110 pp\n\n✍️ ✍️ Two\n\nHeaviest reading week\n\n\n📌\nDec 16\nRhythm of Life due\n—\n\nDeliverable\n\nWord doc → Canvas\n\n\n📌\nDec 18\nFinal Exam due\n—\n\nDeliverable\n\nFinal\n\n\n\n\n\n\n  🧘 Practice\n  ✍️ Response\n  👥 Guest speaker\n  — page counts are estimates. 12 Reading Response opportunities across the term (Dec 14 has two); pick 8."
+  },
+  {
+    "objectID": "schedule.html#week-by-week",
+    "href": "schedule.html#week-by-week",
+    "title": "Schedule",
+    "section": "Week by week",
+    "text": "Week by week\n\n  \n    1\n    Mon · Sep 14Integrated Formation for Ministry at CTS\n    Orientation\n  \n  \n    Read — none. We meet and get oriented.\n    📌 By Sep 16, midnight: post Personal Profile answers to Canvas + submit Personal Profile – Submission to prof.\n    📌 By Sep 19: read classmates' Personal Profiles.\n  \n\n\n\n  \n    2\n    Mon · Sep 21Formation through Dying & Rising\n    ✍️ Response\n  \n  \n    Read — Smith, You Are What You Love, ch. 1 (pp. 1–25) · Willard, \"Spiritual Formation as a Part of Salvation\" · Peterson, \"On Pentecostals, Poets, and Professors\" (Subversive Spirituality, pp. 245–249, 252–256).\n    ✍️ Response (choose one): (a) explain to 8th-graders why grace isn't opposed to zealously pursuing sanctification; or (b) Peterson on what seminary education should be.\n  \n\n\n\n  \n    3\n    Mon · Sep 28Formation through Communal Life\n    🧘 Practice✍️ Response\n  \n  \n    Read — Bonhoeffer, Life Together, pp. 21–57, 66–89, 110–122 · Ortberg, \"Your Hidden Curriculum.\"\n    🧘 Practice: after reading Bonhoeffer, practice confession to someone you trust.\n    ✍️ Response (choose one): Bonhoeffer's \"breakthroughs\" of confession; or Ortberg's hidden curriculum in your family / congregation / CTS.\n  \n\n\n\n  \n    4\n    Mon · Oct 5Silence, Solitude & Fasting\n    🧘 Practice✍️ Response\n  \n  \n    Read — Norris, Amazing Grace pp. 16–17 · one of Nouwen, The Way of the Heart pp. 19–40 or Kidd, Firstlight pp. 160–168 · Vander Zee, \"Retreating into Real Life\" · Foster pp. 47–61 (Fasting) · tech-fasting video.\n    🧘 Practice: fast for 24 hours (needs a clear day).\n    ✍️ Response: reflect on your fasting experience.\n  \n\n\n\n  \n    ·\n    Mon · Oct 12Reading Week — no class\n  \n  Catch-up window. Read ahead or draft a response.\n\n\n\n  \n    ·\n    Mon · Oct 19No class — prof out of town\n  \n  No new assignment.\n\n\n\n  \n    5\n    Mon · Oct 26Chastity, Simplicity & Generosity\n    ✍️ Response\n  \n  \n    Read — DeYoung, Glittering Vices pp. 159–179 · Mother Teresa, No Greater Love pp. 38–49 · Foster pp. 79–95 (Simplicity).\n    ✍️ Response (pick a topic): lust as reductive & pastors' vulnerability; chastity as a discipline; or your own ideas on simplicity & generosity.\n    🧘 Start now: begin the Thompson prayer practice ~1 week before Nov 2.\n  \n\n\n\n  \n    6\n    Mon · Nov 2Prayer & Dark Nights of the Soul\n    🧘 Practice✍️ Response\n  \n  \n    Read — Peterson, \"Praying by the Book\" (Working the Angles pp. 30–43) · Thompson, \"Communication and Communion with God\" (Soul Feast pp. 33–55) · Brother Lawrence, Practice of the Presence of God (Devotional Classics pp. 81–87).\n    🧘 Practice: a Thompson approach to prayer, or pray for your enemies daily this week.\n    ✍️ Response: prayer journal + is Brother Lawrence's practice similar to prayer?\n  \n\n\n\n  \n    7\n    Mon · Nov 9Sabbath, Justice & Suffering\n    ✍️ Response\n  \n  \n    Read — Barbara Brown Taylor, The Preaching Life pp. 26–39 · Peterson, Working the Angles pp. 44–53 · MLK Jr. selections.\n    ✍️ Response (choose one): Taylor on office vs. vocation; Sabbath as a core practice; or justice & suffering.\n  \n\n\n\n  \n    8\n    Mon · Nov 16Biblical Studies\n    🧘 Practice✍️ Response👥 Guest\n  \n  \n    Read — Thompson, \"Chewing the Bread of the Word\" (Soul Feast pp. 19–31) · Athanasius, Letter to Marcellinus pp. 97–108, 114–119 (assigned pages only!).\n    🧘 Practice: Lectio Divina.\n    ✍️ Response: Lectio journal + why Athanasius says we should sing the Psalms.\n    👥 Guest: Danny Daley (New Testament), 2:30–3:15.\n  \n\n\n\n  \n    ·\n    Mon · Nov 23Thanksgiving Break — no class\n    ✍️ Response\n  \n  \n    ✍️ Response available: two-page essay on cultivating gratitude (not griping) in seminary.\n  \n\n\n\n  \n    9\n    Mon · Nov 30Theological Studies\n    ✍️ Response👥 Guest\n  \n  \n    Read — Peterson, \"The Seminary as a Place of Spiritual Formation\" (pp. 54–60) · Wilken, \"Finding God and Seeking God\" (pp. 106–109) · Allen, \"Christian Doctrine and the Spiritual Life\" (pp. 152–158) · Charry, \"John Calvin\" (pp. 199, 201–205, 210–217).\n    ✍️ Response: how can studying theology be devotional — faith seeking the living God?\n    👥 Guest: Cory Willson (Missiology), 2:30–3:15.\n  \n\n\n\n  \n    10\n    Mon · Dec 7Theological Reflection\n    🧘 Practice✍️ Response👥 Guest\n  \n  \n    Read — Rylaarsdam, \"Theological Reflection in Augustine's Confessions\" (pp. 199–209) · Augustine, Confessions Book 1 or 8 (pp. 14–33 or 137–157) · Kidd, Firstlight pp. 95–113 · \"Daily Examen\" or the Examen video.\n    ✍️ Response: an Augustinian theological reflection on a formative life experience.\n    👥 Guest: Wendy Fisher (Spiritual Director), 2:30–3:15.\n    📌 Start now: Nouwen, In the Name of Jesus pp. 11–101 (for Dec 14).\n  \n\n\n\n  \n    11\n    Mon · Dec 14Life-Long Formation\n    ✍️ ✍️ Two Responses\n  \n  \n    Read — Rylaarsdam, \"A Teachable Teacher\" (pp. 165–180) · Nouwen, In the Name of Jesus pp. 11–101 · Peterson \"lived theology of the call\" interview · Butler Bass, \"Intentionality, Practice, and Vitality.\"\n    ✍️ Response A: teachableness — how Nouwen showed it with Bill; your \"Bill\"?\n    ✍️ Response B: \"What kind of person do you want to be in 20 years?\" (one page; give a copy to a friend to mail back in 10 years).\n  \n\n\nFinal deadlines\n\n  \n    Wed · Dec 16\n    Rhythm of Life due\n    Word document (~5 pp) to Canvas. Late = one full grade per day.\n  \n  \n    Fri · Dec 18\n    Final Exam due\n    Prepare by engaging the whole term's work."
+  },
+  {
+    "objectID": "schedule.html#grade-breakdown",
+    "href": "schedule.html#grade-breakdown",
+    "title": "Schedule",
+    "section": "Grade breakdown",
+    "text": "Grade breakdown\n\nClass participation (incl. quizzes) — 20%\n8 Reading Responses — 40%\nRhythm of Life — 20%\nFinal Exam — 20%\n\nReading Response grading: 2 Pass · 1 Poor pass · 0 Fail. Term average must be 2. Late responses are not accepted. Each response ends with a Quote of the Day.\nFormatting for written work: double-spaced, page numbers, 1” margins, name + due date + title on page 1."
+  },
+  {
+    "objectID": "responses.html",
+    "href": "responses.html",
+    "title": "Reading Responses",
+    "section": "",
+    "text": "Each response is ~2 pages, ends with a Quote of the Day, and is due by class time on Canvas. Grading: 2 Pass · 1 Poor pass · 0 Fail. Term average must reach 2. Late = not accepted.\nTwo alternative formats per week: a 4–5 min video, or a curated high-quality image set (60–90 min of searching)."
+  },
+  {
+    "objectID": "responses.html#tracker",
+    "href": "responses.html#tracker",
+    "title": "Reading Responses",
+    "section": "Tracker",
+    "text": "Tracker\nUpdate the Status column as you go, and mark the matching task \"done\" in assets/tasks.js so the dashboard progress bar moves.\n\n\n\n\n\n\n\n\n\n\n\n\n✔\n#\nDue\nTopic\nPrompt\nPractice\nStatus\n\n\n\n\n☐\n1\nSep 21\nDying & Rising\ngrace/sanctification or Peterson on seminary\n—\n—\n\n\n☐\n2\nSep 28\nCommunal Life\nBonhoeffer breakthroughs or Ortberg hidden curriculum\n🧘 confession\n—\n\n\n☐\n3\nOct 5\nSilence/Solitude/Fasting\nreflect on your fast\n🧘 24-hr fast\n—\n\n\n☐\n4\nOct 26\nChastity/Simplicity/Generosity\npick a topic\n—\n—\n\n\n☐\n5\nNov 2\nPrayer\nprayer journal + Brother Lawrence\n🧘 week of prayer\n—\n\n\n☐\n6\nNov 9\nSabbath/Justice/Suffering\npick a topic\n—\n—\n\n\n☐\n7\nNov 16\nBiblical Studies\nLectio journal + Athanasius\n🧘 Lectio Divina\n—\n\n\n☐\n8\nNov 23\nGratitude\n2-pg gratitude essay\n—\n—\n\n\n☐\n9\nNov 30\nTheological Studies\nstudy as devotional\n—\n—\n\n\n☐\n10\nDec 7\nTheological Reflection\nAugustinian reflection on your life\n🧘 Examen\n—\n\n\n☐\n11\nDec 14\nTeachableness / Nouwen & Bill\nfixed\n—\n—\n\n\n☐\n12\nDec 14\n“Person in 20 years” (1 pg)\nfixed\n—\n—"
+  },
+  {
+    "objectID": "responses.html#how-to-choose-your-8",
+    "href": "responses.html#how-to-choose-your-8",
+    "title": "Reading Responses",
+    "section": "How to choose your 8",
+    "text": "How to choose your 8\n\nWeeks with a practice (2, 3, 5, 7, 10) are richest — lived experience makes for stronger, easier writing. A good default.\nNov 23 (Gratitude) is self-contained and over the break — easy to bank.\nDec 14 offers two in one week — handy, but it’s the heaviest reading week; don’t lean on both as your finale.\nSpace them out: roughly 2–3 in Sep/Oct, 3 in Nov, 2 in Dec. Don’t stack six in December.\nYou still must read every week whether or not you write — unannounced quizzes can happen."
+  },
+  {
+    "objectID": "responses.html#drafting-in-site",
+    "href": "responses.html#drafting-in-site",
+    "title": "Reading Responses",
+    "section": "Drafting in-site",
+    "text": "Drafting in-site\nStart a new response from the template:\n\nCopy submissions/_response-template.qmd to submissions/rr01-dying-and-rising.qmd (etc.).\nWrite, then quarto render that file to PDF for Canvas: it’s set up with the required formatting.\nAdd it to the Submissions page.\n\nPrefer to write in Word? Just drop the final file in submissions/ and link it — see Submissions."
+  },
+  {
+    "objectID": "submissions.html",
+    "href": "submissions.html",
+    "title": "Submissions",
+    "section": "",
+    "text": "Everything you turn in, in one place. Two ways to add work:\nWrote in-site (Quarto): render your .qmd to PDF/Word and link the source page below. Wrote elsewhere (Word, etc.): drop the final file into the submissions/ folder and link it.\nWhen you finish an item, also mark its task \"done\" in assets/tasks.js so the dashboard updates."
+  },
+  {
+    "objectID": "submissions.html#reading-responses",
+    "href": "submissions.html#reading-responses",
+    "title": "Submissions",
+    "section": "Reading Responses",
+    "text": "Reading Responses\n\n\n\n#\nTopic\nSubmitted\nFile\n\n\n\n\n1\nDying & Rising\n☐\nlink\n\n\n2\nCommunal Life\n☐\nlink\n\n\n3\nSilence/Solitude/Fasting\n☐\nlink\n\n\n4\nChastity/Simplicity/Generosity\n☐\nlink\n\n\n5\nPrayer\n☐\nlink\n\n\n6\nSabbath/Justice/Suffering\n☐\nlink\n\n\n7\nBiblical Studies\n☐\nlink\n\n\n8\nGratitude\n☐\nlink\n\n\n9\nTheological Studies\n☐\nlink\n\n\n10\nTheological Reflection\n☐\nlink\n\n\n11\nTeachableness / Nouwen\n☐\nlink\n\n\n12\nPerson in 20 years\n☐\nlink\n\n\n\n(Complete 8. Link the finished file in the last column, e.g. [PDF](submissions/rr03-fasting.pdf).)"
+  },
+  {
+    "objectID": "submissions.html#major-deliverables",
+    "href": "submissions.html#major-deliverables",
+    "title": "Submissions",
+    "section": "Major deliverables",
+    "text": "Major deliverables\n\n\n\nItem\nDue\nSubmitted\nFile\n\n\n\n\nPersonal Profile\nSep 16\n☐\nlink\n\n\nRhythm of Life\nDec 16\n☐\nlink\n\n\nFinal Exam\nDec 18\n☐\nlink"
+  },
+  {
+    "objectID": "submissions.html#starting-a-new-response",
+    "href": "submissions.html#starting-a-new-response",
+    "title": "Submissions",
+    "section": "Starting a new response",
+    "text": "Starting a new response\nCopy the template and rename it:\ncp submissions/_response-template.qmd submissions/rr03-fasting.qmd\nThen quarto render submissions/rr03-fasting.qmd --to pdf for a Canvas-ready file with the required formatting."
+  }
+]

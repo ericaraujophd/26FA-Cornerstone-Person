@@ -1,0 +1,314 @@
+/* ---- Task dashboard styling ---- */
+:root {
+  --maroon: #6E1C2E;
+  --gold: #C49A2C;
+  --red: #b3261e;
+  --amber: #b8860b;
+  --green: #2e7d32;
+  --grey: #6c757d;
+}
+
+#dash-banner {
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border: 1px solid transparent;
+}
+#dash-banner.ok    { background: #eef7ee; color: var(--green); border-color: #cfe8cf; }
+#dash-banner.warn  { background: #fdf6e3; color: var(--amber); border-color: #f0e2b8; }
+#dash-banner.alert { background: #fdeceb; color: var(--red);   border-color: #f5cfcc; }
+
+.dash-hero {
+  background: linear-gradient(135deg, var(--maroon), #4a1220);
+  color: #fff;
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  margin-bottom: 1.5rem;
+}
+.dash-hero .label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.8; }
+.dash-hero .title { font-size: 1.5rem; font-weight: 700; margin: 0.15rem 0; color: #fff; }
+.dash-hero .when  { font-size: 1rem; opacity: 0.95; }
+.dash-hero .when b { color: var(--gold); }
+
+.task-group { margin-bottom: 1.6rem; }
+.task-group h3 { margin-bottom: 0.6rem; }
+
+.task {
+  display: flex;
+  align-items: baseline;
+  gap: 0.75rem;
+  padding: 0.55rem 0.8rem;
+  border-left: 4px solid var(--grey);
+  background: #fafafa;
+  border-radius: 6px;
+  margin-bottom: 0.45rem;
+}
+.pill {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  color: #fff !important;
+  white-space: nowrap;
+  line-height: 1.4;
+}
+.task .meta { font-size: 0.82rem; color: var(--grey); white-space: nowrap; }
+.task .body { flex: 1; }
+.task .body a { color: var(--maroon); font-weight: 600; }
+.task .note { display:block; font-size: 0.8rem; color: var(--grey); margin-top: 0.15rem; }
+
+.task.overdue  { border-left-color: var(--red);   background: #fdeceb; }
+.task.soon     { border-left-color: var(--amber); background: #fdf6e3; }
+.task.upcoming { border-left-color: var(--maroon); background: #faf5f6; }
+.task.optional { border-left-color: var(--gold);  background: #fbf7ec; }
+.task.done     { border-left-color: var(--green); background: #f1f7f1; opacity: 0.75; }
+.task.done .body { text-decoration: line-through; }
+
+.pill.reading    { background: #4a6fa5; }
+.pill.response   { background: var(--maroon); }
+.pill.practice   { background: #6a8a3a; }
+.pill.deliverable{ background: #8a3a6a; }
+.pill.admin      { background: var(--grey); }
+
+/* Readable legend card */
+.type-legend {
+  margin-top: 1.5rem;
+  padding: 0.9rem 1.1rem;
+  background: #fbfbfb;
+  border: 1px solid #e4e4e4;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.1rem;
+  align-items: center;
+}
+.type-legend .legend-title {
+  font-weight: 700;
+  color: var(--maroon);
+  font-size: 0.9rem;
+  width: 100%;
+  margin-bottom: 0.15rem;
+}
+.type-legend .legend-item {
+  font-size: 0.9rem;
+  color: #333;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.type-legend .legend-item .pill { margin: 0; }
+.type-legend .legend-note {
+  width: 100%;
+  font-size: 0.85rem;
+  color: var(--grey);
+  margin-top: 0.35rem;
+}
+
+/* Reading tracker — itemized cards */
+.reading-card {
+  border: 1px solid #e6e6e6;
+  border-left: 5px solid var(--maroon);
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  background: #fff;
+}
+.reading-card.rc-overdue { border-left-color: var(--red); }
+.reading-card.rc-soon    { border-left-color: var(--amber); }
+.reading-card.rc-done    { border-left-color: var(--green); opacity: 0.82; }
+
+.reading-card-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.6rem 0.9rem;
+  background: #faf6f2;
+  border-bottom: 1px solid #eee;
+  flex-wrap: wrap;
+}
+.reading-card.rc-done .reading-card-head { background: #f1f7f1; }
+.rc-check { font-size: 1rem; }
+.rc-week  { font-weight: 700; color: var(--maroon); min-width: 4.5rem; }
+.rc-topic { font-weight: 600; color: #222; flex: 1; }
+.rc-meta  { font-size: 0.85rem; color: var(--grey); white-space: nowrap; }
+
+.reading-list { list-style: none; margin: 0; padding: 0.5rem 0.9rem 0.7rem; }
+.reading-list li {
+  padding: 0.4rem 0;
+  border-bottom: 1px dotted #eee;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.6rem;
+}
+.reading-list li:last-child { border-bottom: none; }
+.rl-who  { font-weight: 700; color: #333; min-width: 9rem; }
+.rl-what { color: #333; flex: 1; min-width: 55%; }
+.rl-pages {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--maroon);
+  background: #f4ece9;
+  padding: 0.05rem 0.5rem;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+.reading-card.rc-done .rl-what { text-decoration: line-through; color: var(--grey); }
+
+.progress-wrap { margin: 0.4rem 0 1.2rem; }
+.progress-bar-outer { background:#eee; border-radius:999px; height:14px; overflow:hidden; }
+.progress-bar-inner { background: var(--gold); height:100%; width:0; transition: width .4s; }
+.progress-label { font-size:0.85rem; color: var(--grey); margin-top:0.25rem; }
+
+/* ============ Week-by-week schedule cards ============ */
+.wk {
+  border: 1px solid #ebe6e2;
+  border-radius: 10px;
+  margin: 0 0 1rem;
+  overflow: hidden;
+  background: #fff;
+}
+
+.wk-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  padding: 0.55rem 0.95rem;
+  background: #f6f0ec;
+  border-bottom: 1px solid #ece4de;
+  border-left: 4px solid var(--maroon);
+}
+.wk-num {
+  flex: 0 0 auto;
+  min-width: 1.3rem;
+  color: var(--maroon); font-weight: 800; font-size: 0.95rem;
+}
+.wk-headtext { flex: 1; display: flex; flex-direction: column; line-height: 1.25; }
+.wk-date  { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 1px; color: var(--grey); }
+.wk-title { font-size: 1.02rem; font-weight: 700; color: #2b2b2b; }
+.wk-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; justify-content: flex-end; }
+
+.tag {
+  font-size: 0.68rem; font-weight: 600; letter-spacing: 0.2px;
+  padding: 0.12rem 0.5rem; border-radius: 6px; white-space: nowrap;
+  background: #efe7e2; color: #6b4650; border: 1px solid #e4d8d2;
+}
+
+.wk-body { padding: 0.85rem 1.05rem 0.95rem; }
+.wk-body p { margin: 0 0 0.55rem; }
+.wk-read { color: #2b2b2b; font-size: 0.95rem; }
+.wk-read b { color: var(--maroon); }
+
+.wk-callout {
+  border-radius: 8px; padding: 0.5rem 0.75rem; margin: 0.45rem 0 0;
+  font-size: 0.92rem; border-left: 4px solid var(--grey); background: #f7f7f7;
+}
+.wk-callout b { color: #222; }
+.wk-practice { border-left-color: var(--green);  background: #f0f6ee; }
+.wk-response { border-left-color: var(--maroon); background: #faf3f4; }
+.wk-guest    { border-left-color: #4a6fa5;       background: #eef2f8; }
+.wk-due      { border-left-color: var(--amber);  background: #fdf7e8; }
+.wk-note     { border-left-color: var(--gold);   background: #fbf7ec; font-size:0.88rem; }
+
+/* No-class weeks */
+.wk-off { border-style: dashed; border-color: #ded8d2; background: #fbfaf9; }
+.wk-off .wk-head { background: #f4f1ee; border-left-color: #cdbfb2; }
+.wk-off .wk-num  { color: #b0a294; }
+.wk-off .wk-title{ color: #6b5d52; font-weight: 600; }
+
+/* Trailing deadline strip */
+.deadline-strip { display: flex; flex-wrap: wrap; gap: 0.8rem; margin: 0.4rem 0 0.5rem; }
+.deadline-card {
+  flex: 1 1 220px; border: 1px solid #f0d9a8; border-left: 5px solid var(--amber);
+  background: #fdf7e8; border-radius: 12px; padding: 0.7rem 0.9rem;
+}
+.deadline-card .dc-date { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 1px; color: var(--amber); font-weight: 700; }
+.deadline-card .dc-title { font-weight: 700; color: var(--maroon); display: block; margin-top: 0.1rem; }
+.deadline-card .dc-note { font-size: 0.85rem; color: var(--grey); }
+
+/* ============ At-a-glance schedule table ============ */
+.glance-wrap {
+  overflow-x: auto;
+  border: 1px solid #ebe6e2;
+  border-radius: 14px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  margin: 0.4rem 0 0.6rem;
+}
+.glance-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; min-width: 640px; }
+.glance-table thead th {
+  background: #f6f0ec;
+  color: var(--maroon); text-align: left; font-weight: 700;
+  padding: 0.55rem 0.8rem; font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.4px;
+  border-bottom: 2px solid var(--gold);
+}
+.glance-table tbody td { padding: 0.55rem 0.8rem; border-bottom: 1px solid #f0eeeb; vertical-align: middle; }
+.glance-table tbody tr:last-child td { border-bottom: none; }
+.glance-table tbody tr.gt-class:hover td { background: #faf3f4; }
+.glance-table tbody tr.gt-off td { background: #fbfaf9; color: var(--grey); }
+.glance-table tbody tr.gt-off .gt-topic { font-style: italic; color: #8a7d72; }
+.glance-table tbody tr.gt-deadline td { background: #fdf7e8; }
+
+.gt-num { color: var(--maroon); font-weight: 800; font-size: 0.9rem; }
+.gt-off .gt-num { color: #b0a294; }
+.gt-deadline .gt-num { color: var(--amber); }
+.gt-date { white-space: nowrap; font-weight: 600; color: #444; }
+.gt-topic { font-weight: 600; color: #222; }
+.gt-pages {
+  font-variant-numeric: tabular-nums; font-size: 0.82rem; font-weight: 700;
+  color: var(--maroon); background: #f4ece9; padding: 0.1rem 0.45rem; border-radius: 6px; white-space: nowrap;
+}
+.gt-pages.na { background: transparent; color: #bbb; font-weight: 400; }
+
+.gt-tags { display: flex; flex-wrap: wrap; gap: 0.25rem; }
+.gt-tag {
+  font-size: 0.72rem; font-weight: 600; padding: 0.1rem 0.45rem; border-radius: 6px;
+  white-space: nowrap; border: 1px solid transparent;
+}
+.gt-tag.t-practice { background: #eef3e6; color: #4d6a24; border-color: #dde7cf; }
+.gt-tag.t-response { background: #f7edef; color: var(--maroon); border-color: #ecdce0; }
+.gt-tag.t-guest    { background: #eaf0f7; color: #3a5a87; border-color: #d8e3f0; }
+.gt-tag.t-admin    { background: #f0f0f0; color: #555; border-color: #e2e2e2; }
+.gt-due { font-size: 0.84rem; color: #555; }
+.gt-due b { color: var(--amber); }
+
+.glance-legend { font-size: 0.82rem; color: var(--grey); margin: 0.5rem 0 0; }
+.glance-legend .gt-tag { margin: 0 0.15rem; }
+
+/* ============ Consistent styling for all Markdown tables ============ */
+main table:not(.glance-table) {
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 0.5rem 0 1.2rem;
+  font-size: 0.92rem;
+  border: 1px solid #ebe6e2;
+  border-radius: 10px;
+  overflow: hidden;
+}
+main table:not(.glance-table) thead th {
+  background: #f6f0ec;
+  color: var(--maroon);
+  text-align: left;
+  font-weight: 700;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  padding: 0.55rem 0.8rem;
+  border-bottom: 2px solid var(--gold);
+}
+main table:not(.glance-table) tbody td,
+main table:not(.glance-table) tfoot td {
+  padding: 0.5rem 0.8rem;
+  border-bottom: 1px solid #f0eeeb;
+  vertical-align: top;
+}
+main table:not(.glance-table) tbody tr:last-child td { border-bottom: none; }
+main table:not(.glance-table) tbody tr:hover td { background: #faf3f4; }
+main table:not(.glance-table) tfoot td { background: #faf7f4; font-weight: 600; border-top: 1px solid #eee; }
+main table:not(.glance-table) code { font-size: 0.85em; }
