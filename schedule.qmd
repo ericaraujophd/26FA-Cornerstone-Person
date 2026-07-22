@@ -1,0 +1,340 @@
+---
+title: "Schedule"
+subtitle: "Mondays 1:30–3:15 · Fall 2026"
+---
+
+> **Legend:** ✍️ Reading Response available (write **8 of ~12**) · 🧘 spiritual practice · 👥 guest speaker · 📌 deadline. "No class" weeks can still carry work — watch for it.
+
+## At a glance
+
+```{=html}
+<div class="glance-wrap">
+<table class="glance-table">
+  <thead>
+    <tr><th>Wk</th><th>Date</th><th>Topic</th><th>Reading</th><th>This week</th><th>Due / notes</th></tr>
+  </thead>
+  <tbody>
+    <tr class="gt-class">
+      <td><span class="gt-num">1</span></td><td class="gt-date">Sep 14</td>
+      <td class="gt-topic">Integrated Formation at CTS</td>
+      <td><span class="gt-pages na">—</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-admin">Orientation</span></div></td>
+      <td class="gt-due">Personal Profile — <b>Sep 16</b></td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">2</span></td><td class="gt-date">Sep 21</td>
+      <td class="gt-topic">Dying &amp; Rising</td>
+      <td><span class="gt-pages">~45 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">3</span></td><td class="gt-date">Sep 28</td>
+      <td class="gt-topic">Communal Life</td>
+      <td><span class="gt-pages">~75 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-practice">🧘 Confession</span><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">4</span></td><td class="gt-date">Oct 5</td>
+      <td class="gt-topic">Silence, Solitude &amp; Fasting</td>
+      <td><span class="gt-pages">~40 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-practice">🧘 24-hr fast</span><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-off">
+      <td><span class="gt-num">·</span></td><td class="gt-date">Oct 12</td>
+      <td class="gt-topic">Reading Week — no class</td>
+      <td><span class="gt-pages na">—</span></td>
+      <td><div class="gt-tags"></div></td>
+      <td class="gt-due">Catch-up / read ahead</td>
+    </tr>
+    <tr class="gt-off">
+      <td><span class="gt-num">·</span></td><td class="gt-date">Oct 19</td>
+      <td class="gt-topic">No class — prof away</td>
+      <td><span class="gt-pages na">—</span></td>
+      <td><div class="gt-tags"></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">5</span></td><td class="gt-date">Oct 26</td>
+      <td class="gt-topic">Chastity, Simplicity, Generosity</td>
+      <td><span class="gt-pages">~47 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">Begin prayer practice</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">6</span></td><td class="gt-date">Nov 2</td>
+      <td class="gt-topic">Prayer &amp; Dark Nights</td>
+      <td><span class="gt-pages">~41 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-practice">🧘 Prayer week</span><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">7</span></td><td class="gt-date">Nov 9</td>
+      <td class="gt-topic">Sabbath, Justice, Suffering</td>
+      <td><span class="gt-pages">~62 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ Response</span></div></td>
+      <td class="gt-due">—</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">8</span></td><td class="gt-date">Nov 16</td>
+      <td class="gt-topic">Biblical Studies</td>
+      <td><span class="gt-pages">~29 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-practice">🧘 Lectio</span><span class="gt-tag t-response">✍️ Response</span><span class="gt-tag t-guest">👥 Guest</span></div></td>
+      <td class="gt-due">Danny Daley (NT)</td>
+    </tr>
+    <tr class="gt-off">
+      <td><span class="gt-num">·</span></td><td class="gt-date">Nov 23</td>
+      <td class="gt-topic">Thanksgiving — no class</td>
+      <td><span class="gt-pages na">light</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ Response avail.</span></div></td>
+      <td class="gt-due">Gratitude essay window</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">9</span></td><td class="gt-date">Nov 30</td>
+      <td class="gt-topic">Theological Studies</td>
+      <td><span class="gt-pages">~28 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ Response</span><span class="gt-tag t-guest">👥 Guest</span></div></td>
+      <td class="gt-due">Cory Willson (Missiology)</td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">10</span></td><td class="gt-date">Dec 7</td>
+      <td class="gt-topic">Theological Reflection</td>
+      <td><span class="gt-pages">~48 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-practice">🧘 Examen</span><span class="gt-tag t-response">✍️ Response</span><span class="gt-tag t-guest">👥 Guest</span></div></td>
+      <td class="gt-due">Wendy Fisher · <b>start Nouwen</b></td>
+    </tr>
+    <tr class="gt-class">
+      <td><span class="gt-num">11</span></td><td class="gt-date">Dec 14</td>
+      <td class="gt-topic">Life-Long Formation</td>
+      <td><span class="gt-pages">~110 pp</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">✍️ ✍️ Two</span></div></td>
+      <td class="gt-due">Heaviest reading week</td>
+    </tr>
+    <tr class="gt-deadline">
+      <td><span class="gt-num">📌</span></td><td class="gt-date">Dec 16</td>
+      <td class="gt-topic">Rhythm of Life due</td>
+      <td><span class="gt-pages na">—</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">Deliverable</span></div></td>
+      <td class="gt-due"><b>Word doc → Canvas</b></td>
+    </tr>
+    <tr class="gt-deadline">
+      <td><span class="gt-num">📌</span></td><td class="gt-date">Dec 18</td>
+      <td class="gt-topic">Final Exam due</td>
+      <td><span class="gt-pages na">—</span></td>
+      <td><div class="gt-tags"><span class="gt-tag t-response">Deliverable</span></div></td>
+      <td class="gt-due"><b>Final</b></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<p class="glance-legend">
+  <span class="gt-tag t-practice">🧘 Practice</span>
+  <span class="gt-tag t-response">✍️ Response</span>
+  <span class="gt-tag t-guest">👥 Guest speaker</span>
+  — page counts are estimates. <b>12 Reading Response opportunities across the term (Dec 14 has two); pick 8.</b>
+</p>
+```
+
+## Week by week
+
+```{=html}
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">1</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Sep 14</span><span class="wk-title">Integrated Formation for Ministry at CTS</span></div>
+    <div class="wk-tags"><span class="tag">Orientation</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — none. We meet and get oriented.</p>
+    <div class="wk-callout wk-due">📌 <b>By Sep 16, midnight:</b> post <em>Personal Profile</em> answers to Canvas + submit <em>Personal Profile – Submission to prof.</em></div>
+    <div class="wk-callout wk-due">📌 <b>By Sep 19:</b> read classmates' Personal Profiles.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">2</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Sep 21</span><span class="wk-title">Formation through Dying &amp; Rising</span></div>
+    <div class="wk-tags"><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Smith, <em>You Are What You Love</em>, ch. 1 (pp. 1–25) · Willard, "Spiritual Formation as a Part of Salvation" · Peterson, "On Pentecostals, Poets, and Professors" (<em>Subversive Spirituality</em>, pp. 245–249, 252–256).</p>
+    <div class="wk-callout wk-response">✍️ <b>Response (choose one):</b> (a) explain to 8th-graders why grace isn't opposed to zealously pursuing sanctification; or (b) Peterson on what seminary education should be.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">3</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Sep 28</span><span class="wk-title">Formation through Communal Life</span></div>
+    <div class="wk-tags"><span class="tag">🧘 Practice</span><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Bonhoeffer, <em>Life Together</em>, pp. 21–57, 66–89, 110–122 · Ortberg, "Your Hidden Curriculum."</p>
+    <div class="wk-callout wk-practice">🧘 <b>Practice:</b> after reading Bonhoeffer, practice confession to someone you trust.</div>
+    <div class="wk-callout wk-response">✍️ <b>Response (choose one):</b> Bonhoeffer's "breakthroughs" of confession; or Ortberg's hidden curriculum in your family / congregation / CTS.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">4</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Oct 5</span><span class="wk-title">Silence, Solitude &amp; Fasting</span></div>
+    <div class="wk-tags"><span class="tag">🧘 Practice</span><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Norris, <em>Amazing Grace</em> pp. 16–17 · <b>one of</b> Nouwen, <em>The Way of the Heart</em> pp. 19–40 <b>or</b> Kidd, <em>Firstlight</em> pp. 160–168 · Vander Zee, "Retreating into Real Life" · Foster pp. 47–61 (Fasting) · tech-fasting video.</p>
+    <div class="wk-callout wk-practice">🧘 <b>Practice:</b> fast for 24 hours (needs a clear day).</div>
+    <div class="wk-callout wk-response">✍️ <b>Response:</b> reflect on your fasting experience.</div>
+  </div>
+</div>
+
+<div class="wk wk-off">
+  <div class="wk-head">
+    <span class="wk-num">·</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Oct 12</span><span class="wk-title">Reading Week — no class</span></div>
+  </div>
+  <div class="wk-body"><p class="wk-read">Catch-up window. Read ahead or draft a response.</p></div>
+</div>
+
+<div class="wk wk-off">
+  <div class="wk-head">
+    <span class="wk-num">·</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Oct 19</span><span class="wk-title">No class — prof out of town</span></div>
+  </div>
+  <div class="wk-body"><p class="wk-read">No new assignment.</p></div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">5</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Oct 26</span><span class="wk-title">Chastity, Simplicity &amp; Generosity</span></div>
+    <div class="wk-tags"><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — DeYoung, <em>Glittering Vices</em> pp. 159–179 · Mother Teresa, <em>No Greater Love</em> pp. 38–49 · Foster pp. 79–95 (Simplicity).</p>
+    <div class="wk-callout wk-response">✍️ <b>Response (pick a topic):</b> lust as reductive &amp; pastors' vulnerability; chastity as a discipline; or your own ideas on simplicity &amp; generosity.</div>
+    <div class="wk-callout wk-note">🧘 <b>Start now:</b> begin the Thompson prayer practice ~1 week before Nov 2.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">6</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Nov 2</span><span class="wk-title">Prayer &amp; Dark Nights of the Soul</span></div>
+    <div class="wk-tags"><span class="tag">🧘 Practice</span><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Peterson, "Praying by the Book" (<em>Working the Angles</em> pp. 30–43) · Thompson, "Communication and Communion with God" (<em>Soul Feast</em> pp. 33–55) · Brother Lawrence, <em>Practice of the Presence of God</em> (<em>Devotional Classics</em> pp. 81–87).</p>
+    <div class="wk-callout wk-practice">🧘 <b>Practice:</b> a Thompson approach to prayer, or pray for your enemies daily this week.</div>
+    <div class="wk-callout wk-response">✍️ <b>Response:</b> prayer journal + is Brother Lawrence's practice similar to prayer?</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">7</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Nov 9</span><span class="wk-title">Sabbath, Justice &amp; Suffering</span></div>
+    <div class="wk-tags"><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Barbara Brown Taylor, <em>The Preaching Life</em> pp. 26–39 · Peterson, <em>Working the Angles</em> pp. 44–53 · MLK Jr. selections.</p>
+    <div class="wk-callout wk-response">✍️ <b>Response (choose one):</b> Taylor on office vs. vocation; Sabbath as a core practice; or justice &amp; suffering.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">8</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Nov 16</span><span class="wk-title">Biblical Studies</span></div>
+    <div class="wk-tags"><span class="tag">🧘 Practice</span><span class="tag">✍️ Response</span><span class="tag">👥 Guest</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Thompson, "Chewing the Bread of the Word" (<em>Soul Feast</em> pp. 19–31) · Athanasius, <em>Letter to Marcellinus</em> pp. 97–108, 114–119 (<b>assigned pages only!</b>).</p>
+    <div class="wk-callout wk-practice">🧘 <b>Practice:</b> Lectio Divina.</div>
+    <div class="wk-callout wk-response">✍️ <b>Response:</b> Lectio journal + why Athanasius says we should sing the Psalms.</div>
+    <div class="wk-callout wk-guest">👥 <b>Guest:</b> Danny Daley (New Testament), 2:30–3:15.</div>
+  </div>
+</div>
+
+<div class="wk wk-off">
+  <div class="wk-head">
+    <span class="wk-num">·</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Nov 23</span><span class="wk-title">Thanksgiving Break — no class</span></div>
+    <div class="wk-tags"><span class="tag">✍️ Response</span></div>
+  </div>
+  <div class="wk-body">
+    <div class="wk-callout wk-response">✍️ <b>Response available:</b> two-page essay on cultivating gratitude (not griping) in seminary.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">9</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Nov 30</span><span class="wk-title">Theological Studies</span></div>
+    <div class="wk-tags"><span class="tag">✍️ Response</span><span class="tag">👥 Guest</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Peterson, "The Seminary as a Place of Spiritual Formation" (pp. 54–60) · Wilken, "Finding God and Seeking God" (pp. 106–109) · Allen, "Christian Doctrine and the Spiritual Life" (pp. 152–158) · Charry, "John Calvin" (pp. 199, 201–205, 210–217).</p>
+    <div class="wk-callout wk-response">✍️ <b>Response:</b> how can studying theology be devotional — faith seeking the living God?</div>
+    <div class="wk-callout wk-guest">👥 <b>Guest:</b> Cory Willson (Missiology), 2:30–3:15.</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">10</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Dec 7</span><span class="wk-title">Theological Reflection</span></div>
+    <div class="wk-tags"><span class="tag">🧘 Practice</span><span class="tag">✍️ Response</span><span class="tag">👥 Guest</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Rylaarsdam, "Theological Reflection in Augustine's <em>Confessions</em>" (pp. 199–209) · Augustine, <em>Confessions</em> Book 1 <b>or</b> 8 (pp. 14–33 or 137–157) · Kidd, <em>Firstlight</em> pp. 95–113 · "Daily Examen" or the Examen video.</p>
+    <div class="wk-callout wk-response">✍️ <b>Response:</b> an Augustinian theological reflection on a formative life experience.</div>
+    <div class="wk-callout wk-guest">👥 <b>Guest:</b> Wendy Fisher (Spiritual Director), 2:30–3:15.</div>
+    <div class="wk-callout wk-note">📌 <b>Start now:</b> Nouwen, <em>In the Name of Jesus</em> pp. 11–101 (for Dec 14).</div>
+  </div>
+</div>
+
+<div class="wk wk-class">
+  <div class="wk-head">
+    <span class="wk-num">11</span>
+    <div class="wk-headtext"><span class="wk-date">Mon · Dec 14</span><span class="wk-title">Life-Long Formation</span></div>
+    <div class="wk-tags"><span class="tag">✍️ ✍️ Two Responses</span></div>
+  </div>
+  <div class="wk-body">
+    <p class="wk-read"><b>Read</b> — Rylaarsdam, "A Teachable Teacher" (pp. 165–180) · Nouwen, <em>In the Name of Jesus</em> pp. 11–101 · Peterson "lived theology of the call" interview · Butler Bass, "Intentionality, Practice, and Vitality."</p>
+    <div class="wk-callout wk-response">✍️ <b>Response A:</b> teachableness — how Nouwen showed it with Bill; your "Bill"?</div>
+    <div class="wk-callout wk-response">✍️ <b>Response B:</b> "What kind of person do you want to be in 20 years?" (one page; give a copy to a friend to mail back in 10 years).</div>
+  </div>
+</div>
+```
+
+### Final deadlines
+
+```{=html}
+<div class="deadline-strip">
+  <div class="deadline-card">
+    <span class="dc-date">Wed · Dec 16</span>
+    <span class="dc-title">Rhythm of Life due</span>
+    <span class="dc-note">Word document (~5 pp) to Canvas. Late = one full grade per day.</span>
+  </div>
+  <div class="deadline-card">
+    <span class="dc-date">Fri · Dec 18</span>
+    <span class="dc-title">Final Exam due</span>
+    <span class="dc-note">Prepare by engaging the whole term's work.</span>
+  </div>
+</div>
+```
+
+## Grade breakdown
+
+- Class participation (incl. quizzes) — **20%**
+- 8 Reading Responses — **40%**
+- Rhythm of Life — **20%**
+- Final Exam — **20%**
+
+Reading Response grading: **2** Pass · **1** Poor pass · **0** Fail. Term average must be 2. **Late responses are not accepted.** Each response ends with a *Quote of the Day*.
+
+Formatting for written work: double-spaced, page numbers, 1" margins, name + due date + title on page 1.

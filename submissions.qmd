@@ -1,0 +1,48 @@
+---
+title: "Submissions"
+subtitle: "Your finished work"
+---
+
+Everything you turn in, in one place. Two ways to add work:
+
+**Wrote in-site (Quarto):** render your `.qmd` to PDF/Word and link the source page below.
+**Wrote elsewhere (Word, etc.):** drop the final file into the `submissions/` folder and link it.
+
+When you finish an item, also mark its task `"done"` in `assets/tasks.js` so the dashboard updates.
+
+## Reading Responses
+
+| # | Topic | Submitted | File |
+|---|-------|-----------|------|
+| 1 | Dying & Rising | ☐ | _link_ |
+| 2 | Communal Life | ☐ | _link_ |
+| 3 | Silence/Solitude/Fasting | ☐ | _link_ |
+| 4 | Chastity/Simplicity/Generosity | ☐ | _link_ |
+| 5 | Prayer | ☐ | _link_ |
+| 6 | Sabbath/Justice/Suffering | ☐ | _link_ |
+| 7 | Biblical Studies | ☐ | _link_ |
+| 8 | Gratitude | ☐ | _link_ |
+| 9 | Theological Studies | ☐ | _link_ |
+| 10 | Theological Reflection | ☐ | _link_ |
+| 11 | Teachableness / Nouwen | ☐ | _link_ |
+| 12 | Person in 20 years | ☐ | _link_ |
+
+_(Complete 8. Link the finished file in the last column, e.g. `[PDF](submissions/rr03-fasting.pdf)`.)_
+
+## Major deliverables
+
+| Item | Due | Submitted | File |
+|------|-----|-----------|------|
+| Personal Profile | Sep 16 | ☐ | _link_ |
+| Rhythm of Life | Dec 16 | ☐ | _link_ |
+| Final Exam | Dec 18 | ☐ | _link_ |
+
+## Starting a new response
+
+Copy the template and rename it:
+
+```bash
+cp submissions/_response-template.qmd submissions/rr03-fasting.qmd
+```
+
+Then `quarto render submissions/rr03-fasting.qmd --to pdf` for a Canvas-ready file with the required formatting.

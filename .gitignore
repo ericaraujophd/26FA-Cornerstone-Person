@@ -1,0 +1,17 @@
+# Quarto
+/_site/
+/.quarto/
+*.html
+!/**/*.qmd
+
+# Rendered outputs you may not want in git history (uncomment to ignore)
+# submissions/*.pdf
+# submissions/*.docx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*~
+.Rproj.user
+.Rhistory
+.ipynb_checkpoints/

@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - schedule.qmd
+    - readings.qmd
+    - responses.qmd
+    - rhythm.qmd
+    - submissions.qmd
+    - about.qmd
+
+website:
+  title: "Cornerstone: Person"
+  description: "Eric Araújo's personal coursework & homework portfolio for CTS 5710 (Spiritual Formation), Calvin Theological Seminary, Fall 2026."
+  site-url: ""
+  reader-mode: true
+  page-navigation: true
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: "Dashboard"
+      - href: schedule.qmd
+        text: "Schedule"
+      - href: readings.qmd
+        text: "Readings"
+      - href: responses.qmd
+        text: "Reading Responses"
+      - href: rhythm.qmd
+        text: "Rhythm of Life"
+      - href: submissions.qmd
+        text: "Submissions"
+    right:
+      - href: about.qmd
+        text: "Course Info"
+  page-footer:
+    center: "Personal coursework portfolio of Eric Araújo · CTS 5710, Cornerstone: Person · Fall 2026 · Instructor: Prof. David Rylaarsdam"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/styles.scss
+    toc: true
+    toc-depth: 3
+    include-in-header:
+      - assets/tasks.js
+    css: assets/dashboard-style.css
+    grid:
+      body-width: 900px

@@ -1,0 +1,29 @@
+---
+title: "Dashboard"
+subtitle: "Cornerstone: Person · CTS 5710 · Fall 2026"
+toc: false
+---
+
+::: {.callout-note appearance="simple"}
+This is my personal coursework site for **Cornerstone: Person (CTS 5710)**, a spiritual-formation course at Calvin Theological Seminary (Fall 2026). It's where I track my readings and deadlines and keep my homework — reading responses, reflections, and my Rhythm of Life — as I complete them. It's a student portfolio, not an official course page. — *Eric Araújo*
+:::
+
+Here's where things stand — this panel recomputes every time you open the page.
+
+::: {#task-dashboard}
+*Loading your tasks…*
+:::
+
+---
+
+### Quick links
+
+- [Schedule](schedule.qmd) — week-by-week plan
+- [Readings](readings.qmd) — reading list & pacing
+- [Reading Responses](responses.qmd) — pick and track your 8 of 12
+- [Rhythm of Life](rhythm.qmd) — the ~5-page deliverable (due Dec 16)
+- [Submissions](submissions.qmd) — your finished work
+
+### How this stays current
+
+Everything on this dashboard comes from one file: **`assets/tasks.js`**. Mark a task `"done"`, add a note, or change a date there, then re-render (`quarto render` or `quarto preview`). The urgency colors — 🔴 overdue, 🟠 due within 7 days — are computed live in your browser against today's date, so they're accurate even between renders.

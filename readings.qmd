@@ -1,0 +1,46 @@
+---
+title: "Readings & Pacing"
+subtitle: "~495 pages · ~33 hours across the term"
+---
+
+The syllabus budgets reading at **15 pp/hr** — this is slow, devotional reading meant to be *practiced*, not skimmed. Read early enough to try each assigned discipline more than once before class.
+
+## What to read, week by week
+
+Every assigned reading — author, work, and exact pages — with a check-off per week. Updates live from `assets/tasks.js`; mark a week `"done"` there to check it off.
+
+::: {#reading-tracker}
+*Loading reading tracker…*
+:::
+
+## Weekly pacing (finish before the Monday class)
+
+| Read for | ~Pages | ~Hours | Start by | Why start early |
+|----------|-------:|-------:|----------|-----------------|
+| Sep 21 | 45 | 3.0 | Wed Sep 16 | — |
+| Sep 28 | 75 | 5.0 | Tue Sep 22 | 🧘 confession before class |
+| Oct 5 | 40 | 2.5 | Wed Sep 30 | 🧘 24-hr fast needs a clear day |
+| Oct 26 | 47 | 3.0 | Wed Oct 21 | 🧘 begin prayer practice ~Oct 26 |
+| Nov 2 | 41 | 2.5 | Tue Oct 27 | 🧘 pray daily a full week first |
+| Nov 9 | 62 | 4.0 | Tue Nov 3 | MLK selections add up |
+| Nov 16 | 29 | 2.0 | Wed Nov 11 | 🧘 Lectio across the week |
+| Nov 23 | light | 1.0 | (break) | gratitude essay |
+| Nov 30 | 28 | 2.0 | Tue Nov 24 | — |
+| Dec 7 | 48 | 3.0 | Tue Dec 1 | 🧘 begin the Examen |
+| Dec 14 | 110 | 5.0 | **Mon Dec 7** | ⚠️ Nouwen (90 pp) — start early |
+
+Two bank-ahead windows: **Oct 12** (Reading Week) and **Oct 19** (no class). Page counts above are my estimates from the assigned ranges — treat as guides.
+
+## Three "don't get caught" moments
+
+1. **Dec 14's Nouwen (90 pp)** — the largest single reading. Pace ~15 pp/day over the last two weeks.
+2. **Practices with lead time** — the 24-hr fast (Oct 5), the week-long prayer practice you begin ~Oct 26, and Lectio Divina (Nov 16) must start before class.
+3. **Late Reading Responses are never accepted**, and the Rhythm of Life loses a full letter grade per day. Dec 16 and Dec 18 are hard walls.
+
+## Books to have on hand
+
+**Required (own):** Augustine *Confessions* (Boulding trans.) · Bonhoeffer *Life Together* · Foster *Celebration of Discipline* · Nouwen *In the Name of Jesus*.
+**Recommended:** Calhoun, *Spiritual Disciplines Handbook*.
+Everything else (Smith, Willard, Peterson excerpts, Thompson, Athanasius, MLK, DeYoung, etc.) is distributed in class / posted on Canvas.
+
+> Drop class-distributed PDFs into a `readings/` folder and link them here as you collect them.

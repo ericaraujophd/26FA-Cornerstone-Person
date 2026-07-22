@@ -1,0 +1,32 @@
+---
+title: "Reading Response — [TOPIC]"
+author: "Eric Araújo"
+date: "[DUE DATE]"
+format:
+  pdf:
+    geometry: margin=1in
+    linestretch: 2
+    include-in-header:
+      text: |
+        \usepackage{fancyhdr}
+        \pagestyle{fancy}
+        \fancyhf{}
+        \rfoot{\thepage}
+  docx: default
+---
+
+<!--
+Formatting the syllabus requires (built into this template):
+  double-spaced · page numbers · 1" margins · name + date + title on page 1.
+Cite required readings in-text (Author, page). Footnote any other source.
+Render for Canvas:  quarto render this-file.qmd --to pdf   (or --to docx)
+-->
+
+[Write your ~2-page response here. Options: reflect theologically on an idea/virtue/text;
+draw out wisdom for ministry; appropriate the reading for your own life; or use a great
+quote/argument to begin a sermon idea. Follow any specific prompt for the week.]
+
+---
+
+**Quote of the day.** [Your favorite quote from the assigned reading — chosen for insight,
+beauty, how God used it to move you, or as a sermon refrain.] *(Author, p. XX)*

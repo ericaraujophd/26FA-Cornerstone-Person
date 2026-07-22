@@ -1,0 +1,31 @@
+---
+title: "Rhythm of Life"
+subtitle: "~5 pages · due Mon Dec 16 (Word doc → Canvas)"
+---
+
+> A realistic plan for living your faith — the processes by which you hope to be formed into the image of Christ for the sake of others. Describe how particular Christian disciplines will be integral to your way of life, with reasons (based on your needs and situation) for your choices. **Late Rhythms lose one full grade per day.** See the handout *"Instructions for developing a personal Rhythm of Life."*
+
+## Working outline
+
+Use this space to draft. The disciplines you actually practice this term (fasting, prayer, Lectio, Examen, confession, Sabbath) are your best raw material — pull from your Reading Responses.
+
+1. **Where I am now** — an honest assessment of your current spiritual condition, needs, tendencies, and life situation.
+2. **Where I sense God forming me** — the shape of the person you hope to become.
+3. **Rhythms** — the disciplines/practices you'll adopt, organized by cadence:
+   - *Daily* — e.g. Scripture, prayer, Examen
+   - *Weekly* — e.g. Sabbath, worship, confession
+   - *Seasonal / occasional* — e.g. fasting, retreat, spiritual direction
+4. **Why these** — reasons tied to your assessment in (1). This is where the grade lives.
+5. **Support & accountability** — Formation Group, accountability partner, mentor.
+
+## Notes as the term goes
+
+_Jot what's working, what isn't, and quotes/ideas from readings you'll want here. Then export to Word for submission._
+
+-
+-
+
+::: {.callout-tip}
+Draft here in Quarto, then render to `.docx` for Canvas:
+`quarto render rhythm.qmd --to docx`
+:::

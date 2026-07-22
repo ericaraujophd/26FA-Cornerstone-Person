@@ -1,0 +1,45 @@
+---
+title: "Reading Responses"
+subtitle: "Choose and complete 8 of the 12 options"
+---
+
+Each response is ~2 pages, ends with a **Quote of the Day**, and is due **by class time on Canvas**. Grading: **2** Pass · **1** Poor pass · **0** Fail. Term average must reach 2. **Late = not accepted.**
+
+**Two alternative formats per week:** a 4–5 min video, or a curated high-quality image set (60–90 min of searching).
+
+## Tracker
+
+Update the **Status** column as you go, and mark the matching task `"done"` in `assets/tasks.js` so the dashboard progress bar moves.
+
+| ✔ | # | Due | Topic | Prompt | Practice | Status |
+|---|---|-----|-------|--------|----------|--------|
+| ☐ | 1 | Sep 21 | Dying & Rising | grace/sanctification **or** Peterson on seminary | — | — |
+| ☐ | 2 | Sep 28 | Communal Life | Bonhoeffer breakthroughs **or** Ortberg hidden curriculum | 🧘 confession | — |
+| ☐ | 3 | Oct 5 | Silence/Solitude/Fasting | reflect on your fast | 🧘 24-hr fast | — |
+| ☐ | 4 | Oct 26 | Chastity/Simplicity/Generosity | pick a topic | — | — |
+| ☐ | 5 | Nov 2 | Prayer | prayer journal + Brother Lawrence | 🧘 week of prayer | — |
+| ☐ | 6 | Nov 9 | Sabbath/Justice/Suffering | pick a topic | — | — |
+| ☐ | 7 | Nov 16 | Biblical Studies | Lectio journal + Athanasius | 🧘 Lectio Divina | — |
+| ☐ | 8 | Nov 23 | Gratitude | 2-pg gratitude essay | — | — |
+| ☐ | 9 | Nov 30 | Theological Studies | study as devotional | — | — |
+| ☐ | 10 | Dec 7 | Theological Reflection | Augustinian reflection on your life | 🧘 Examen | — |
+| ☐ | 11 | Dec 14 | Teachableness / Nouwen & Bill | fixed | — | — |
+| ☐ | 12 | Dec 14 | "Person in 20 years" (1 pg) | fixed | — | — |
+
+## How to choose your 8
+
+- **Weeks with a practice (2, 3, 5, 7, 10) are richest** — lived experience makes for stronger, easier writing. A good default.
+- **Nov 23 (Gratitude)** is self-contained and over the break — easy to bank.
+- **Dec 14 offers two in one week** — handy, but it's the heaviest reading week; don't lean on both as your finale.
+- **Space them out:** roughly 2–3 in Sep/Oct, 3 in Nov, 2 in Dec. Don't stack six in December.
+- You **still must read every week** whether or not you write — unannounced quizzes can happen.
+
+## Drafting in-site
+
+Start a new response from the template:
+
+- Copy `submissions/_response-template.qmd` to `submissions/rr01-dying-and-rising.qmd` (etc.).
+- Write, then `quarto render` that file to PDF for Canvas: it's set up with the required formatting.
+- Add it to the [Submissions](submissions.qmd) page.
+
+Prefer to write in Word? Just drop the final file in `submissions/` and link it — see Submissions.
