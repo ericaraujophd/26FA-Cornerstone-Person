@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ericaraujophd.github.io/26FA-Cornerstone-Person/sitemap.xml
